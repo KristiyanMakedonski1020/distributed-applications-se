@@ -1,0 +1,6 @@
+@EscapeRoomSystem_HostAddress = http://localhost:5159
+
+GET {{EscapeRoomSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
